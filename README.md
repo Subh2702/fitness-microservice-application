@@ -145,30 +145,30 @@ Access the application via the gateway (http://localhost:8080). Assuming a front
 
 Below are eight screenshots showcasing the FitTracker UI:
 
-1. **Login Page**  
+1. **Intro Page**  
     
     ![Login Page](screenshots/pic1.png)
-2. **User Dashboard**  
+2. **Login Page**  
     
-    ![User Dashboard](path/to/dashboard.png)
-3. **Activity Logging**  
+    ![User Dashboard](screenshots/pic2.png)
+3. **User DashBoard 1**  
     
-    ![Activity Logging](path/to/activity-log.png)
-4. **Activity List**  
+    ![Activity Logging](screenshots/pic3.png)
+4. **User DashBoard 2**  
     
-    ![Activity List](path/to/activity-list.png)
-5. **AI Recommendations**  
+    ![Activity List](screenshots/pic4.png)
+5. **User DashBoard 3**  
     
-    ![AI Recommendations](path/to/recommendations.png)
-6. **User Profile**  
+    ![AI Recommendations](screenshots/pic5.png)
+6. **Activity Details 1**  
     
-    ![User Profile](path/to/profile.png)
-7. **Admin Panel**  
+    ![User Profile](screenshots/pic6.png)
+7. **Activity Details 2**  
     
-    ![Admin Panel](path/to/admin.png)
-8. **Activity Details**  
+    ![Admin Panel](screenshots/pic7.png)
+8. **Activity Details 3**  
     
-    ![Activity Details](path/to/activity-details.png)
+    ![Activity Details](screenshots/pic8.png)
 
 _Note: Replace_ path/to/ _with actual screenshot paths._
 

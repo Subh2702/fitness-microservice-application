@@ -175,6 +175,3 @@ Below are eight screenshots showcasing the FitTracker UI:
 
 Contributions are welcome! Please fork the repository and submit a pull request with your changes.
 
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.

@@ -170,7 +170,6 @@ Below are eight screenshots showcasing the FitTracker UI:
     
     ![Activity Details](screenshots/pic8.png)
 
-_Note: Replace_ path/to/ _with actual screenshot paths._
 
 ## Contributing
 

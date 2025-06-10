@@ -147,7 +147,7 @@ Below are eight screenshots showcasing the FitTracker UI:
 
 1. **Login Page**  
     
-    ![Login Page](path/to/login.png)
+    ![Login Page](screenshots/pic1.png)
 2. **User Dashboard**  
     
     ![User Dashboard](path/to/dashboard.png)
